@@ -29,55 +29,56 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#/slide-org5b57f80">BLOG</a>
+<li><a href="#/slide-orgf6e8187">BLOG</a>
 <ul>
-<li><a href="#/slide-org4687492">10/10/2020</a></li>
+<li><a href="#/slide-orge9021ee">10/10/2020</a></li>
 </ul>
 </li>
-<li><a href="#/slide-orgc890805">MUSIC</a>
+<li><a href="#/slide-org500cb3f">MUSIC</a>
 <ul>
-<li><a href="#/slide-org29fa9d4">For Home</a></li>
-<li><a href="#/slide-orge7f3afd">Bummer Pop</a></li>
+<li><a href="#/slide-org2fe5e08">For Home</a></li>
+<li><a href="#/slide-org4dc4cad">Bummer Pop</a></li>
 </ul>
 </li>
-<li><a href="#/slide-org4cad4ca">SPIRITUALITY</a></li>
-<li><a href="#/slide-orgd40682b">MOVIES/TV</a></li>
+<li><a href="#/slide-org8bd4c79">SPIRITUALITY</a></li>
+<li><a href="#/slide-org5d00a7a">MOVIES/TV</a></li>
 </ul>
 </div>
 </div>
 </section>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <p>
 EXIST CAFE - PDX
 </p>
 <section>
-<section id="slide-org5b57f80">
-<h2 id="org5b57f80">BLOG</h2>
-<div class="outline-text-2" id="text-org5b57f80">
+<section id="slide-orgf6e8187">
+<h2 id="orgf6e8187">BLOG</h2>
+<div class="outline-text-2" id="text-orgf6e8187">
 </div>
 </section>
-<section id="slide-org4687492">
-<h3 id="org4687492">10/10/2020</h3>
+<section id="slide-orge9021ee">
+<h3 id="orge9021ee">10/10/2020</h3>
 <p>
 Hello world!
 </p>
 </section>
 </section>
 <section>
-<section id="slide-orgc890805">
-<h2 id="orgc890805">MUSIC</h2>
-<div class="outline-text-2" id="text-orgc890805">
+<section id="slide-org500cb3f">
+<h2 id="org500cb3f">MUSIC</h2>
+<div class="outline-text-2" id="text-org500cb3f">
 </div>
 </section>
-<section id="slide-org29fa9d4">
-<h3 id="org29fa9d4">For Home</h3>
+<section id="slide-org2fe5e08">
+<h3 id="org2fe5e08">For Home</h3>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1950791484/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3925591170/transparent=true/" seamless><a href="https://forhomepdx.bandcamp.com/album/for-home-vol-1">For Home Vol. 1 by Roseblood</a></iframe>
 
 <p>
 "For Home" is a compilation album from Portland artists for relief efforts during COVID-19. Purchase if you'd like to support!
 </p>
 </section>
-<section id="slide-orge7f3afd">
-<h3 id="orge7f3afd">Bummer Pop</h3>
+<section id="slide-org4dc4cad">
+<h3 id="org4dc4cad">Bummer Pop</h3>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=63035186/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2225667091/transparent=true/" seamless><a href="https://holidaybreathrecords.bandcamp.com/album/bummer-pop-volume-1">Bummer Pop Volume 1 by Holiday Breath Records</a></iframe>
 
 <p>
@@ -87,13 +88,13 @@ A lovely compilation album from Holiday Breath Records. Sublimely bummer.
 </section>
 </section>
 <section>
-<section id="slide-org4cad4ca">
-<h2 id="org4cad4ca">SPIRITUALITY</h2>
+<section id="slide-org8bd4c79">
+<h2 id="org8bd4c79">SPIRITUALITY</h2>
 </section>
 </section>
 <section>
-<section id="slide-orgd40682b">
-<h2 id="orgd40682b">MOVIES/TV</h2>
+<section id="slide-org5d00a7a">
+<h2 id="org5d00a7a">MOVIES/TV</h2>
 </section>
 </section>
 </div>

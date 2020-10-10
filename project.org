@@ -1,5 +1,4 @@
 #+OPTIONS: num:nil
-#+REVEAL_HTML:<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
 EXIST CAFE - PDX
 * BLOG
 ** 10/10/2020
