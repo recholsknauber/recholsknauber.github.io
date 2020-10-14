@@ -1,8 +1,16 @@
+/*Font from fontsquirrel: https://www.fontsquirrel.com/fonts/alatsi*/
+@font-face {
+    font-family: 'Alatsi-Regular';
+    src: url('alatsi/Alatsi-Regular.ttf');}
+* {
+    font-family: 'Alatsi-Regular';}
 body {
     background-color: rgb(240, 225, 164);}
 h1 {
-    color: #A3684D;}
+    color: #A3684D;
+    text-align: center;}
 h2 {
     color: #A3684D;}
 tr {
-    background-color: #CEE0DD;}
+    background-color: #CEE0DD;
+    text-align: center;}
