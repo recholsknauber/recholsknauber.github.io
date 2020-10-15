@@ -14,3 +14,7 @@ h2 {
 tr {
     background-color: #CEE0DD;
     text-align: center;}
+tr.bcembed {
+    table-layout: auto;
+    width: 100px;
+    height: 50px;}
