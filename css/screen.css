@@ -14,7 +14,12 @@ h1 {
 }
    
 h2 {
-    color: #776E81;}
+    color: #776E81;
+    padding-left: 375px;
+    padding-right: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 table {
     background-color: #CEE0DD;
     text-align: center;}
