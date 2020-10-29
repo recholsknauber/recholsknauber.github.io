@@ -6,12 +6,8 @@
     font-family: 'Alatsi-Regular';
     background-color: rgb(255, 255, 255);}
 h1 {
-    font-size: 75px;
     color: #776E81;
-    text-align: center;
-    margin: 0;
-    padding: 0;
-}
+    text-align: center;}
    
 h2 {
     color: #776E81;}
@@ -71,4 +67,11 @@ a.menu_block_last {
 
 .ball {
     float: left;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
