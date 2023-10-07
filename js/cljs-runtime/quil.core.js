@@ -4366,14 +4366,14 @@ return null;
  */
 quil.core.sketch = (function quil$core$sketch(var_args){
 var args__5775__auto__ = [];
-var len__5769__auto___16803 = arguments.length;
-var i__5770__auto___16804 = (0);
+var len__5769__auto___16809 = arguments.length;
+var i__5770__auto___16810 = (0);
 while(true){
-if((i__5770__auto___16804 < len__5769__auto___16803)){
-args__5775__auto__.push((arguments[i__5770__auto___16804]));
+if((i__5770__auto___16810 < len__5769__auto___16809)){
+args__5775__auto__.push((arguments[i__5770__auto___16810]));
 
-var G__16805 = (i__5770__auto___16804 + (1));
-i__5770__auto___16804 = G__16805;
+var G__16811 = (i__5770__auto___16810 + (1));
+i__5770__auto___16810 = G__16811;
 continue;
 } else {
 }
