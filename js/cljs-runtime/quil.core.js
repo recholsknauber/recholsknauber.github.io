@@ -158,14 +158,14 @@ return cljs.core.get.cljs$core$IFn$_invoke$arity$2(state,key);
  */
 quil.core.set_state_BANG_ = (function quil$core$set_state_BANG_(var_args){
 var args__5775__auto__ = [];
-var len__5769__auto___16644 = arguments.length;
-var i__5770__auto___16645 = (0);
+var len__5769__auto___16656 = arguments.length;
+var i__5770__auto___16657 = (0);
 while(true){
-if((i__5770__auto___16645 < len__5769__auto___16644)){
-args__5775__auto__.push((arguments[i__5770__auto___16645]));
+if((i__5770__auto___16657 < len__5769__auto___16656)){
+args__5775__auto__.push((arguments[i__5770__auto___16657]));
 
-var G__16646 = (i__5770__auto___16645 + (1));
-i__5770__auto___16645 = G__16646;
+var G__16659 = (i__5770__auto___16657 + (1));
+i__5770__auto___16657 = G__16659;
 continue;
 } else {
 }
@@ -4366,14 +4366,14 @@ return null;
  */
 quil.core.sketch = (function quil$core$sketch(var_args){
 var args__5775__auto__ = [];
-var len__5769__auto___16809 = arguments.length;
-var i__5770__auto___16810 = (0);
+var len__5769__auto___16818 = arguments.length;
+var i__5770__auto___16819 = (0);
 while(true){
-if((i__5770__auto___16810 < len__5769__auto___16809)){
-args__5775__auto__.push((arguments[i__5770__auto___16810]));
+if((i__5770__auto___16819 < len__5769__auto___16818)){
+args__5775__auto__.push((arguments[i__5770__auto___16819]));
 
-var G__16811 = (i__5770__auto___16810 + (1));
-i__5770__auto___16810 = G__16811;
+var G__16820 = (i__5770__auto___16819 + (1));
+i__5770__auto___16819 = G__16820;
 continue;
 } else {
 }
