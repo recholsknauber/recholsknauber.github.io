@@ -10,7 +10,7 @@ quickstart.balls.update_state = (function quickstart$balls$update_state(state){
 return new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"color","color",1011675173),cljs.core.mod((new cljs.core.Keyword(null,"color","color",1011675173).cljs$core$IFn$_invoke$arity$1(state) + cljs.core.rand.cljs$core$IFn$_invoke$arity$1((2))),(255)),new cljs.core.Keyword(null,"angle","angle",1622094254),(new cljs.core.Keyword(null,"angle","angle",1622094254).cljs$core$IFn$_invoke$arity$1(state) + cljs.core.rand.cljs$core$IFn$_invoke$arity$1(0.5))], null);
 });
 quickstart.balls.draw_state = (function quickstart$balls$draw_state(state){
-quil.core.background.cljs$core$IFn$_invoke$arity$1((240));
+quil.core.background.cljs$core$IFn$_invoke$arity$3((0),(0),(0));
 
 quil.core.fill.cljs$core$IFn$_invoke$arity$3(new cljs.core.Keyword(null,"color","color",1011675173).cljs$core$IFn$_invoke$arity$1(state),(255),(255));
 

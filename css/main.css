@@ -3,7 +3,7 @@
     src: url('../fonts/Alatsi-Regular.ttf');}
 * {
     font-family: 'Alatsi-Regular';
-    background-color: rgb(255, 255, 255);}
+    background-color: rgb(0, 0, 0);}
 h1 {
     font-size: 75px;
     color: #776E81;
@@ -14,15 +14,26 @@ h1 {
    
 h2 {
     color: #776E81;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-bottom: 5%;
+    /* margin-left: 10%; */
+    /* margin-right: 10%; */
+    /* margin-bottom: 5%; */
 }
+
+body {
+    /* align: center; */
+    text-align: center;
+    margin: 0;
+    /* margin-left: 20%; */
+    /* margin-right: 10%; */
+    /* margin-bottom: 5%;     */
+}
+
 table {
-    background-color: #CEE0DD;
+    background-color: #776E81;
     text-align: center;}
+
 td {
-    background-color: #CEE0DD;}
+    background-color: #776E81;}
 
 /*MENU BAR*/
 ul.menu_bar {
@@ -43,21 +54,21 @@ a.menu_block {
     padding: 10px;
     padding-left: 40px;
     padding-right: 40px;
-    background-color: #dddddd;
+    background-color: #776E81;
 }
 
 a.menu_block_first {
     display: block;
     padding: 10px;
     padding-right: 40px;
-    background-color: #dddddd;
+    background-color: #776E81;
 }
 
 a.menu_block_last {
     display: block;
     padding: 10px;
     padding-left: 40px;
-    background-color: #dddddd;
+    background-color: #776E81;
 }
 /* tr.bcembed { */
 /*     table-layout: fixed; */
@@ -73,5 +84,6 @@ a.menu_block_last {
 /*     height: 120px;} */
 
 .ball {
-    float: left;
+    float: center;
+    display: inline-block;
 }
