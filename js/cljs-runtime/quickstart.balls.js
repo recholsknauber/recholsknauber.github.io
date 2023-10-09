@@ -15,8 +15,8 @@ quil.core.background.cljs$core$IFn$_invoke$arity$1((0));
 quil.core.fill.cljs$core$IFn$_invoke$arity$3(new cljs.core.Keyword(null,"color","color",1011675173).cljs$core$IFn$_invoke$arity$1(state),(255),(255));
 
 var angle = new cljs.core.Keyword(null,"angle","angle",1622094254).cljs$core$IFn$_invoke$arity$1(state);
-var x = ((35) * quil.core.cos(angle));
-var y = ((35) * quil.core.sin(angle));
+var x = ((20) * quil.core.cos(angle));
+var y = ((20) * quil.core.sin(angle));
 var tr__17106__auto__ = new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [(quil.core.width() / (2)),(quil.core.height() / (2))], null);
 quil.core.push_matrix();
 
@@ -26,7 +26,7 @@ return quil.core.ellipse(x,y,((0.64 * quil.core.height()) * (((30) + cljs.core.r
 }finally {quil.core.pop_matrix();
 }});
 quickstart.balls.run_sketch = (function quickstart$balls$run_sketch(host,sc_width,sc_height){
-return quil.core.sketch.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"host","host",-1558485167),host,new cljs.core.Keyword(null,"size","size",1098693007),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [(sc_height * 0.2),(sc_height * 0.2)], null),new cljs.core.Keyword(null,"setup","setup",1987730512),quickstart.balls.setup,new cljs.core.Keyword(null,"update","update",1045576396),quickstart.balls.update_state,new cljs.core.Keyword(null,"draw","draw",1358331674),quickstart.balls.draw_state,new cljs.core.Keyword(null,"middleware","middleware",1462115504),new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [quil.middleware.fun_mode], null)], 0));
+return quil.core.sketch.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"host","host",-1558485167),host,new cljs.core.Keyword(null,"size","size",1098693007),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [(sc_height * 0.1),(sc_height * 0.1)], null),new cljs.core.Keyword(null,"setup","setup",1987730512),quickstart.balls.setup,new cljs.core.Keyword(null,"update","update",1045576396),quickstart.balls.update_state,new cljs.core.Keyword(null,"draw","draw",1358331674),quickstart.balls.draw_state,new cljs.core.Keyword(null,"middleware","middleware",1462115504),new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [quil.middleware.fun_mode], null)], 0));
 });
 goog.exportSymbol('quickstart.balls.run_sketch', quickstart.balls.run_sketch);
 
